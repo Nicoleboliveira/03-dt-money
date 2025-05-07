@@ -8,7 +8,6 @@
       "price": "14000",
       "createdAt": "2025-05-06T16:56:48.962Z"
     },
-
     {
       "id": 2,
       "description": "Hamburguer",
@@ -16,6 +15,30 @@
       "category": "Alimentação",
       "price": "50",
       "createdAt": "2025-05-06T16:56:30.962Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2025-05-07T17:26:48.754Z",
+      "id": 3
+    },
+    {
+      "description": "Hotel",
+      "price": 500,
+      "category": "Despesa",
+      "type": "outcome",
+      "createdAt": "2025-05-07T17:32:37.079Z",
+      "id": 4
+    },
+    {
+      "description": "Iorgute de banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-05-07T17:51:54.693Z",
+      "id": 5
     }
   ]
 }
